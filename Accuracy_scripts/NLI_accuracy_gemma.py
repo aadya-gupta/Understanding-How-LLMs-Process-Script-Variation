@@ -197,11 +197,11 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 apply_global_style()
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-INPUT_FILE   = "/Users/aadya/Documents/script_interp/Datasets/indic_mixed_dataset.jsonl"
-OUTPUT_CSV   = "/Users/aadya/Documents/script_interp/nli_results_gemma.csv" # Changed name to prevent overwriting Llama outputs
-FIGURES_DIR  = "/Users/aadya/Documents/script_interp/Figures_accuracy"
+INPUT_FILE   = #enter path
+OUTPUT_CSV   = #enter path
+FIGURES_DIR  = #enter path
 MODEL_NAME   = "google/gemma-2-2b-it" # Updated for Gemma-2
-NUM_SAMPLES  = 5000
+NUM_SAMPLES  = 1500
 # ─────────────────────────────────────────────────────────────────────────────
 
 LABEL_MAP = {0: "entailment", 1: "neutral", 2: "contradiction"}
