@@ -4,8 +4,6 @@ This repository contains the datasets, evaluation scripts, and mechanistic inter
 
 Our experiments investigate the emergence of **Script Invariance** in Large Language Models (LLMs) across three linguistic tasks: Named Entity Recognition (NER), Part-of-Speech (POS) Tagging, and Natural Language Inference (NLI).
 
-> **Note to Reviewers:** This repository has been rigorously anonymized in accordance with ACL Rolling Review (ARR) double-blind guidelines. No author names, affiliations, or identifying metadata are present in the code or commit history.
-
 ---
 
 ## Hardware Requirements & Execution Environments
