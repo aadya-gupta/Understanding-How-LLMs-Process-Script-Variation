@@ -81,7 +81,7 @@ def plot_accuracy_bars(accuracy: dict, model_name: str, task_name: str, save_dir
 
 # ── 2. CONFIGURATION ──────────────────────────────────────────────────────────
 MODEL_ID        = "meta-llama/Llama-3.2-3B-Instruct"
-ANNOTATION_FILE = "/Users/aadya/Documents/script_interp/comi_lingua_annotations.jsonl" # Update path if needed
+ANNOTATION_FILE = #enter path
 OUTPUT_LOGS     = "ner_eval_logs_llama.jsonl"
 FIGURES_DIR     = "Figures"
 RESUME          = True   
